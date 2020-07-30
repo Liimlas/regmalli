@@ -1,0 +1,3 @@
+# Regressiomalli
+
+Project for school
